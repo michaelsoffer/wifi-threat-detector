@@ -2,7 +2,7 @@
 A Python tool to detect insecure Wi-Fi networks and Evil Twin attacks.
 
 ## Installation
-1. Clone this repository: ```git clone https://github.com/yourusername/Public-WiFi-Threat-Detector.git```
+1. Clone this repository: ```git clone https://github.com/yourusername/wifi-threat-detector.git```
 
 2. Install dependencies: ```pip install -r requirements.txt```
 
